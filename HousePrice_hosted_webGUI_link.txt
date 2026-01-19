@@ -2,5 +2,5 @@ Name: Callista Mbene
 Matric Number: 22CD032163
 Machine Learning Algorithm Used: Random Forest Regressor
 Model Persistence Method Used: Joblib
-Live URL of Hosted Application: https://house-price-callista.onrender.com
-GitHub Repository Link: https://github.com/YOUR_USERNAME/HousePrice_Project_CallistaMbene_22CD032163
+Live URL of Hosted Application: https://houseprice-project-callistambene.onrender.com/
+GitHub Repository Link: https://github.com/callista-mbene/HousePrice_Project_CallistaMbene_22CD032163
